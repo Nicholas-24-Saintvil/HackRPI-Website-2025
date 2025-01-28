@@ -17,6 +17,7 @@ export default function AboutUs() {
 						<span className="text-hackrpi-primary-dark-purple font-bold">Urban Upgrades</span>. After submitting their
 						projects, participants demonstrate their projects in front of a panel of professors, industry professionals,
 						and fellow students.
+						// changed the color to dark purple here
 					</p>
 					<p className="pb-3">
 						<span className="text-hackrpi-primary-dark-purple font-bold">Urban Upgrades</span> is all about enhancing

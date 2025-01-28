@@ -31,7 +31,7 @@ export const executive = {
 };
 
 export const teamColors = {
-	president: { bg: "#9e40ee", text: "#ffffff" },
+	president: { bg: "#9e40ee", text: "#ffffff" }, // colors were changed here with the template
 	vicePresident: { bg: "#733dbe", text: "#ffffff" },
 	Technology: { bg: "#e39036", text: "#ffffff" },
 	Logistics: { bg: "#e9bc59", text: "#ffffff" },
@@ -39,7 +39,7 @@ export const teamColors = {
 	Outreach: { bg: "#292333", text: "#ffffff" },
 	Finance: { bg: "#733dbe", text: "#ffffff" },
 	Sponsorship: { bg: "#9e40ee", text: "#ffffff" },
-};
+}; 
 
 export interface Director {
 	name:
